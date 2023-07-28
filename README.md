@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chat with PDF's
 
 ## Introduction
@@ -41,3 +42,9 @@ To run the application :
 	`
 3: A new browser window will be opened with the running application
 4: Upload your desired PDF(s) and ask questions.
+=======
+# Chat with PDF's Application
+
+Clone the Repository to your local machine and use 
+streamlit run app.py to run the app
+>>>>>>> 42bbe4935fdd08b3d26af8613bf0e5da615396c2
