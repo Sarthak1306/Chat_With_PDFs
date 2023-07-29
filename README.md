@@ -6,7 +6,7 @@
 
 Chat with PDF's is a Python application that helps you interact with pdf documents. You can upload PDF's of your liking and ask questions about the PDF's using natural language. The application will analyze the PDF content and provide you a relevent answer to your query.
 
-## Installation
+## Dependencies & Installation
 
 ---
 
@@ -14,7 +14,7 @@ Chat with PDF's is a Python application that helps you interact with pdf documen
 
 2: Install the following dependancies using
 `
-	pip install
+	pip install "dependency name"
 	`
 
     - langchain
