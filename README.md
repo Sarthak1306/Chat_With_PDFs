@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 079e092ed727d68c7c6e4f8170738c645d7419f7
 # Chat with PDF's
 
 ## Introduction
@@ -36,13 +40,17 @@ To run the application :
 
 1: Download all the required dependencies and add the OpenAI API Key to the .env file
 2: Run the 'app.py' file using Streamlit CLI by running
-`
+	`
 	streamlit run app.py
 	`
 3: A new browser window will be opened with the running application
 4: Upload your desired PDF(s) and ask questions.
+<<<<<<< HEAD
 
 # Chat with PDF's Application
 
 Clone the Repository to your local machine and use
 streamlit run app.py to run the app
+=======
+
+>>>>>>> 079e092ed727d68c7c6e4f8170738c645d7419f7
