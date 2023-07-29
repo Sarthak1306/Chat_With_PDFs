@@ -14,7 +14,7 @@ Chat with PDF's is a Python application that helps you interact with pdf documen
 
 2: Install the following dependancies using
 `
-	pip install
+	pip install "dependency name"
 	`
 
     - langchain
