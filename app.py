@@ -20,7 +20,7 @@ def get_pdf_text(pdf_docs):
             try:
                 text += page.extract_text()
             except:
-                print("Text could not be extracted, try another file")
+                print("Text could not be extracted, please try another file")
     return text
 
 
