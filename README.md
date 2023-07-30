@@ -10,7 +10,7 @@ Chat with PDF's is a Python application that helps you interact with pdf documen
 
 ---
 
-1: Clone the repository
+1: Clone the repository to your local machine
 
 2: Install the following dependancies using
 `
